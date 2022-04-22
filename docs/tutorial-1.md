@@ -1,4 +1,4 @@
-```sim
+```typescript
 let thousand = 1000
 ```
 
