@@ -2,4 +2,4 @@
 
 MakeCode tutorials to create a platformer game.
 
-/tutorial-1
+[Tutorial 1](tutorial-1)
