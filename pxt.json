@@ -5,6 +5,9 @@
     "dependencies": {
         "device": "*"
     },
+    "files": [
+        "README.md"
+    ],
     "targetVersions": {
         "target": "1.8.22",
         "targetId": "arcade"
