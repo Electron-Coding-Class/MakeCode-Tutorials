@@ -1,0 +1,16 @@
+{
+    "name": "Example Game",
+    "version": "1.1.0",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "targetVersions": {
+        "target": "1.8.22",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
