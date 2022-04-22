@@ -1,4 +1,4 @@
-```blocks
+```typescript
 let thousand = 1000
 ```
 
